@@ -3,7 +3,7 @@ require("database.class.php");
 
 $conf = (object) array(
 	"meta" => (object) array(
-		"site_name" => "ModClash-Main Test Server ", // Website/server name
+		"site_name" => "Your server name here ", // Website/server name
 		"server_ip" => "127.0.0.1", // Game Servers IP
 		"server_port" => "9339", // Port to check for the server on
 		"check_timeout" => "(float)1.5", // Timeout when checking the server status(bigger the float, longer the load time)
