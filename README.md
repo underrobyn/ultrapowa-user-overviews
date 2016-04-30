@@ -17,4 +17,4 @@ Instructions:
 	Visit the homepage and see if it works
 	
 	
-For any support contact me on the forum (http://ultrapowa.com/forum/member.php?13591-xX_Cryptic_Xx)
+For any support contact me on the forum (http://www.ultrapowa.com/forum/members/xx_cryptic_xx.13591/)
