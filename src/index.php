@@ -1,7 +1,7 @@
 <?php
 require_once("config.inc.php");
 
-if ($isOnline = @fsockopen($conf->meta->server_,$conf->meta->server_port,$errno,$errstr,$conf->meta->check_timeout)) {
+if ($isOnline = @fsockopen($conf->meta->server_ip,$conf->meta->server_port,$errno,$errstr,$conf->meta->check_timeout)) {
 	fclose($isOnline);
 	$serverStatus = '<span style="color:green; font-weight: bold;">Online</span>';
 } else {
